@@ -35,7 +35,7 @@ const Footer = () => {
   ];
 
   return (
-    <div className="grid grid-cols-5 gap-3  pb-20 w-11/12 mx-auto mt-5">
+    <div className="grid grid-cols-5 gap-3  py-14 w-11/12 mx-auto mt-10">
       <div>
         <h1 className="font-bold text-2xl ">ROOMFINDER</h1>
         <h3 className="text-sm  font-medium">
