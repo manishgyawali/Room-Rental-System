@@ -1,5 +1,5 @@
 import React from 'react'
-import { roomtypeData } from '../roomtype';
+import { roomtypeData } from '../../roomtype';
 
 const Roomtype = () => {
   return (
