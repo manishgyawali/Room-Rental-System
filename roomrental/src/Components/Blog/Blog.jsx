@@ -5,13 +5,13 @@ import { FaComment } from "react-icons/fa";
 import { blogData } from "../../Blog";
 const Blog = () => {
   return (
-    <div className="text-center grid gap-10 w-11/12 mx-auto mt-10">
+    <div className="text-center grid gap-10 w-11/12 mx-auto mt-40 ">
       <div className="  ">
         <h3 className="text-customgreen text-xl font-semibold">OUR BLOG</h3>
         <h1 className="text-4xl font-semibold">Recent From Blog</h1>
       </div>
 
-      <div className=" grid grid-cols-3  border gap-6     ">
+      <div className=" grid grid-cols-3  border gap-6 mt-20    ">
         {blogData.map((val, i) => (
           <div className="bg-white group shadow-lg pb-6 flex flex-col gap-6  ">
             <div className="h-72 w-full overflow-clip bg-gray-300">

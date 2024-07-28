@@ -2,9 +2,9 @@ import React from "react";
 
 const Aboutus = () => {
   return (
-    <div className="flex items-center mt-40 gap-2 w-11/12 mx-auto">
+    <div className="flex items-center mt-40 gap-10 w-11/12 mx-auto">
       <div>
-        <img src="https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="image" className="w-10/12 mx-auto" />
+        <img src="https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="image" className="" />
       </div>
       <div>
         <div>

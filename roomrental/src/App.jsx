@@ -7,6 +7,7 @@ import Footer from './Components/Common/Footer/Footer'
 import Footerlast from './Components/Common/Footer/Footerlast'
 import Blog from './Components/Blog/Blog';
 import Aboutus from './Components/Aboutus/Aboutus';
+import Newsletter from './Components/Common/Newsletter/Newsletter'
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
   <Homebanner/>
   <Aboutus/>
   <Blog/>
+  <Newsletter/>
   <Footer/>
   <Footerlast/>
     </>
