@@ -16,6 +16,8 @@ const Newsletter = () => {
         className="bg-customgreen flex-grow text-white placeholder-white focus:outline-none border-b-2 border-white"
       />
       <button className="ml-2">
+
+        
         <svg
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
